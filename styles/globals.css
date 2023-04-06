@@ -1,0 +1,11 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    list-style: none;
+    text-decoration: none;
+    box-sizing: border-box;
+    color: var(--color);
+}
+ :root{
+    --color:red;
+ }
